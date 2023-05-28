@@ -1,1 +1,1 @@
-Aplikacioni konsiston në krijimin e një forme p ër Menaxhimin e Porosive të një Marketi. Përdoruesi vendos detajet e porosisë si: Emri i klientit, ID e porosisë dhe Datën. Gjithashtu, ai zgjedh produktet përkatëse nga databaza e produkteve që përmban fushat: ID, Emri d he Cmimi për njësi.
+Aplikacioni konsiston në krijimin e një forme për menaxhimin e porosive të një marketi. Përdoruesi vendos detajet e porosisë si: Emri i klientit, ID e porosisë dhe datën. Gjithashtu, ai zgjedh produktet përkatëse nga databaza e produkteve që përmban fushat: ID, Emri dhe cmimi për njësi.
